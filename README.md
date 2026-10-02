@@ -1,2 +1,287 @@
 # Chandrashekhar
 Resume of Chandrashekhar
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Chandrashekhar | IT Procurement Specialist</title>
+
+    <meta name="description"
+          content="Chandrashekhar – IT Procurement and Strategic Sourcing Professional specializing in Software, SaaS, Cloud, IT Infrastructure and Technology Procurement.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+    <div class="logo">CS</div>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#skills">Expertise</a>
+        <a href="#achievements">Impact</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <p class="eyebrow">IT PROCUREMENT • STRATEGIC SOURCING • TECHNOLOGY</p>
+
+        <h1>
+            Chandrashekhar
+        </h1>
+
+        <h2>
+            IT Procurement & Strategic Sourcing Professional
+        </h2>
+
+        <p class="hero-text">
+            Procurement professional with nearly a decade of experience
+            across IT procurement, SaaS, software licensing, cloud,
+            infrastructure, professional services and indirect procurement.
+        </p>
+
+        <div class="buttons">
+            <a href="#experience" class="btn primary">Explore My Experience</a>
+            <a href="#contact" class="btn secondary">Let's Connect</a>
+        </div>
+
+    </div>
+
+</section>
+
+
+<section id="about" class="section">
+
+    <div class="section-label">01 — ABOUT</div>
+
+    <h2>Procurement that connects technology, value and business.</h2>
+
+    <p>
+        I specialize in managing technology procurement and strategic
+        sourcing initiatives across the Source-to-Pay lifecycle.
+    </p>
+
+    <p>
+        My experience spans software and SaaS procurement, cloud and
+        infrastructure, IT hardware, professional services, supplier
+        management, contract management and procurement transformation.
+    </p>
+
+</section>
+
+
+<section id="experience" class="section dark">
+
+    <div class="section-label">02 — EXPERIENCE</div>
+
+    <h2>Professional Journey</h2>
+
+    <div class="timeline">
+
+        <div class="timeline-item">
+
+            <span class="year">2022 – 2026</span>
+
+            <h3>ISG — Team Lead, Procurement</h3>
+
+            <p>
+                Led IT and indirect procurement activities across sourcing,
+                supplier management, contracting and Source-to-Pay operations.
+            </p>
+
+        </div>
+
+
+        <div class="timeline-item">
+
+            <span class="year">2022</span>
+
+            <h3>Ness Digital Engineering — Senior Executive</h3>
+
+            <p>
+                Managed procurement compliance, ethical sourcing,
+                e-bidding and electronic contract management.
+            </p>
+
+        </div>
+
+
+        <div class="timeline-item">
+
+            <span class="year">2017 – 2022</span>
+
+            <h3>SLK Software — Procurement</h3>
+
+            <p>
+                Worked across sourcing, rate-card automation,
+                e-bidding, catalog buying and procurement process
+                automation.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<section id="skills" class="section">
+
+    <div class="section-label">03 — EXPERTISE</div>
+
+    <h2>Core Procurement Expertise</h2>
+
+    <div class="skills-grid">
+
+        <div class="skill-card">
+            <h3>IT Procurement</h3>
+            <p>
+                Software, SaaS, hardware, cloud, infrastructure and IT services.
+            </p>
+        </div>
+
+        <div class="skill-card">
+            <h3>Strategic Sourcing</h3>
+            <p>
+                Category strategy, RFx, e-bidding, negotiation and supplier selection.
+            </p>
+        </div>
+
+        <div class="skill-card">
+            <h3>Contract Management</h3>
+            <p>
+                Renewals, amendments, milestones, compliance and commercial governance.
+            </p>
+        </div>
+
+        <div class="skill-card">
+            <h3>Supplier Management</h3>
+            <p>
+                Supplier performance, QBRs, audits, risk and relationship management.
+            </p>
+        </div>
+
+        <div class="skill-card">
+            <h3>Procurement Automation</h3>
+            <p>
+                Rate-card automation, catalog buying, workflow improvement and digital procurement.
+            </p>
+        </div>
+
+        <div class="skill-card">
+            <h3>Technology Categories</h3>
+            <p>
+                SaaS, cloud, IT infrastructure, professional services and enterprise software.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+
+<section id="achievements" class="section dark">
+
+    <div class="section-label">04 — IMPACT</div>
+
+    <h2>Selected Procurement Impact</h2>
+
+    <div class="impact-grid">
+
+        <div class="impact">
+            <strong>$100K+</strong>
+            <span>Annual SaaS savings</span>
+        </div>
+
+        <div class="impact">
+            <strong>40%</strong>
+            <span>Reduction in processing time</span>
+        </div>
+
+        <div class="impact">
+            <strong>₹1 Cr</strong>
+            <span>Transport sourcing savings</span>
+        </div>
+
+        <div class="impact">
+            <strong>90%</strong>
+            <span>Reduction in contract tracking effort</span>
+        </div>
+
+        <div class="impact">
+            <strong>75%</strong>
+            <span>Faster supplier registration</span>
+        </div>
+
+        <div class="impact">
+            <strong>30%</strong>
+            <span>Indirect procurement cost reduction</span>
+        </div>
+
+    </div>
+
+</section>
+
+
+<section class="section">
+
+    <div class="section-label">05 — TECHNOLOGY</div>
+
+    <h2>Tools & Procurement Environment</h2>
+
+    <div class="tech-list">
+
+        <span>SAP MM</span>
+        <span>Oracle</span>
+        <span>Microsoft Office</span>
+        <span>Contract Management</span>
+        <span>e-Sourcing</span>
+        <span>e-Bidding</span>
+        <span>Source-to-Pay</span>
+        <span>Supplier Management</span>
+
+    </div>
+
+</section>
+
+
+<section id="contact" class="contact">
+
+    <div class="section-label">06 — CONNECT</div>
+
+    <h2>Let's connect.</h2>
+
+    <p>
+        Open to opportunities in IT Procurement, Technology Procurement,
+        Strategic Sourcing and Category Management.
+    </p>
+
+    <a href="mailto:YOUR_EMAIL@example.com" class="btn primary">
+        Contact Me
+    </a>
+
+</section>
+
+
+<footer>
+
+    <p>© 2026 Chandrashekhar</p>
+
+    <p>IT Procurement • Strategic Sourcing • Technology Procurement</p>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
